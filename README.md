@@ -1,1 +1,1 @@
-# The-Time-in-Words-ALGO
+# The-Time-in-Words-ALGO.This program converts a given time (hours h and minutes m) into its English phrase form. It handles special cases like "quarter past", "half past", and "quarter to", as well as regular minute expressions such as "ten minutes past five" or "thirteen minutes to six".
